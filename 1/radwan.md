@@ -28,7 +28,6 @@ https://www.facebook.com/groups/cs50.egypt/
 دول ناس بتذاكر سوا وتسأل أول بأول لو وقف قصادها حاجة، ودايما التكاتف دا بيجيب أفضل نتيجة يعني
 
 
-[In reply to Eng: kemo]
 وعليكم السلام ورحمة الله
 نصيحة لوجه الله، ويا ريت تبعتوها على جروباتكم والكل يقرأها: ماحدش يتسرع ويبدأ في مجال من دلوقت لأن ناقصه أساسيات كتير فهيضيع وقته في حين ممكن يستغله بشكل أفضل لو تركزوا حاليًا في الأساسيات اللي بتدرسوها في الكلية زي
 programming, oop, data structures and algorithms, databases, operating systems, networking, software engineering, design patterns, compilers
